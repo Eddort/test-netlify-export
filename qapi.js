@@ -23,5 +23,6 @@ export default {
 			}
 		}
 	},
+	"mode": "production",
 	"projectType": "gatsby"
 }
