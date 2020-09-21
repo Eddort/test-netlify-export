@@ -9,70 +9,70 @@ export default (() => {
 		<Helmet>
 			<link rel={"shortcut icon"} href={"https://images.unsplash.com/photo-1600364810530-99190ab41e12?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0MjIzN30"} type={"image/x-icon"} />
 		</Helmet>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
-		<Components.Sec lazy-load={false}>
+		<Components.Sec lazy-load>
 			<Override slot="kek" />
 		</Components.Sec>
 		<Section padding="100px 0" sm-padding="40px 0" background="rgba(0, 0, 0, 0) url(https://images.unsplash.com/photo-1599687266725-0d4d52716b86?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0MjIzN30) 0% 0% /auto repeat scroll padding-box">
