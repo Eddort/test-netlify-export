@@ -17,7 +17,7 @@ export default (() => {
 				margin="20px 0 0 0"
 				color="#f4e7e7"
 			>
-				test netlify
+				V3
 			</Text>
 			<Text
 				as="h2"
